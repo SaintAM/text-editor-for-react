@@ -1,0 +1,14 @@
+.list {
+  margin-left: 1.5rem;
+  word-wrap: break-word;
+  text-wrap: wrap;
+  max-width: 500px;
+  > div {
+    background-color: rgba(0, 0, 0, 0.345);
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 1rem;
+    border: 1px solid #282828;
+		margin-bottom: 1rem;
+  }
+}

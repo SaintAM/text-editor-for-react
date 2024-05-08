@@ -1,0 +1,20 @@
+{
+  "emails": [
+    {
+      "id": "ba01",
+      "text": "test text"
+    },
+    {
+      "id": "9b4e",
+      "text": "<i>Hi, I`am <u>Alex Chesnokov</u></i>"
+    },
+    {
+      "id": "5be4",
+      "text": "ASSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
+    },
+    {
+      "id": "1445",
+      "text": "sddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"
+    }
+  ]
+}
